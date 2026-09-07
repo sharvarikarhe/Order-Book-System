@@ -105,7 +105,3 @@ The simulation is driven by text files with simple commands.
 
   * Lines starting with `#` are ignored as comments.
   * **Example:** `A B GoodTillCancel 100 20 101` adds a Good-Till-Cancel buy order for 20 units at a price of 100 with an ID of 101.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE.txt file for details.
